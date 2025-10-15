@@ -7,6 +7,7 @@ Prochaine réunion prévue la semaine du 13 au 17 octobre.
 
 ### Meeting n°2 (à venir)
 **Ordre du jour**
+* Outils d'échanges
 * Partage des taches 
 * Architecture du site
 * Outils pour la curation
